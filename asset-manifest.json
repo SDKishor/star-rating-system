@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/star-rating-system/static/css/main.e6c13ad2.css",
+    "main.js": "/star-rating-system/static/js/main.8e634a8b.js",
+    "static/js/787.46993d15.chunk.js": "/star-rating-system/static/js/787.46993d15.chunk.js",
+    "index.html": "/star-rating-system/index.html",
+    "main.e6c13ad2.css.map": "/star-rating-system/static/css/main.e6c13ad2.css.map",
+    "main.8e634a8b.js.map": "/star-rating-system/static/js/main.8e634a8b.js.map",
+    "787.46993d15.chunk.js.map": "/star-rating-system/static/js/787.46993d15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8e634a8b.js"
+  ]
+}
